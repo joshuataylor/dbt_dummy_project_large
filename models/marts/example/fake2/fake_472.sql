@@ -3,5 +3,5 @@
 
         select 1 as foo,
         42 as bar
-        from {{ ref('fake_86') }}
+        from {{ ref('fake_8') }}
         
